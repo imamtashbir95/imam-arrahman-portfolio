@@ -4,6 +4,10 @@ html {
     scroll-behavior: smooth;
 }
 
+body {
+    background-color: var(--background);
+}
+
 :root {
     --background: #111111;
     --bg-opaque: hsla(0, 0%, 7%, 0.25);
