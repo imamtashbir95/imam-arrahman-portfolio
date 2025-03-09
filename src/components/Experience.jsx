@@ -241,7 +241,7 @@ const Experience = () => {
                             projects (including a learning management system
                             mobile app), leveraging expertise in API
                             development, database management, and system
-                            integration. I ensured efwcient, maintainable, and
+                            integration. I ensured efficient, maintainable, and
                             high-quality code.
                         </p>
                     </motion.div>
@@ -280,6 +280,9 @@ const Experience = () => {
                             </span>
                             <span className="poppins-extralight rounded-full bg-[var(--background-light)] px-[0.5rem] py-[0.125rem] text-[16px] text-white">
                                 Jest
+                            </span>
+                            <span className="poppins-extralight rounded-full bg-[var(--background-light)] px-[0.5rem] py-[0.125rem] text-[16px] text-white">
+                                Docker
                             </span>
                         </div>
                     </motion.div>
@@ -361,7 +364,7 @@ const Experience = () => {
                             Sampah) mobile app, a waster bank app, where I was
                             responsible for creating dashboards, landing pages,
                             and server-side coding. My expertise lies in writing
-                            clean code, debugging, wxing, and deploying Node.js
+                            clean code, debugging, fixing, and deploying Node.js
                             code.
                         </p>
                     </motion.div>
@@ -399,6 +402,9 @@ const Experience = () => {
                             </span>
                             <span className="poppins-extralight rounded-full bg-[var(--background-light)] px-[0.5rem] py-[0.125rem] text-[16px] text-white">
                                 Jest
+                            </span>
+                            <span className="poppins-extralight rounded-full bg-[var(--background-light)] px-[0.5rem] py-[0.125rem] text-[16px] text-white">
+                                Docker
                             </span>
                         </div>
                     </motion.div>

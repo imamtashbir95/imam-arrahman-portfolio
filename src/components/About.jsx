@@ -41,11 +41,11 @@ const About = () => {
                         <p className="poppins-extralight mb-[1.5rem] text-[18px] text-white">
                             As a seasoned Node.js developer, I bring extensive
                             expertise in crafting robust and scalable web
-                            applications tailored to meet clients' unique needs.
+                            applications tailored to meet clients’ unique needs.
                             With a meticulous eye for detail and a passion for
-                            clean, efwcient code, I excel in architecting
+                            clean, efficient code, I excel in architecting
                             elegant solutions that prioritize performance,
-                            security, and maintainability. My prowciency
+                            security, and maintainability. My proficiency
                             encompasses the entire software development
                             lifecycle, from requirement analysis and system
                             design to implementation, testing, and deployment.
