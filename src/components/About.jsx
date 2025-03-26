@@ -83,6 +83,7 @@ const About = () => {
                                         rel="nofollow"
                                         href="https://www.linkedin.com/in/imam-tashbir/"
                                         className="relative z-20 opacity-[0.5]"
+                                        aria-label="LinkedIn Profile"
                                     >
                                         <svg
                                             xmlns="http://www.w3.org/2000/svg"
@@ -101,6 +102,7 @@ const About = () => {
                                         rel="nofollow"
                                         href="https://github.com/imamtashbir95/"
                                         className="relative z-20 opacity-[0.5]"
+                                        aria-label="GitHub Profile"
                                     >
                                         <svg
                                             xmlns="http://www.w3.org/2000/svg"
@@ -119,6 +121,7 @@ const About = () => {
                                         rel="nofollow"
                                         href="whatsapp://send?phone=+6282128321689"
                                         className="relative z-20 opacity-[0.5]"
+                                        aria-label="WhatsApp Contact"
                                     >
                                         <svg
                                             xmlns="http://www.w3.org/2000/svg"
