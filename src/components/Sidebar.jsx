@@ -18,10 +18,10 @@ const Sidebar = () => {
             const experienceSection = document.querySelector("#experience");
             const contactSection = document.querySelector("#contact");
 
-            const aboutTop = aboutSection.offsetTop;
-            const techStackTop = techStackSection.offsetTop;
-            const experienceTop = experienceSection.offsetTop;
-            const contactTop = contactSection.offsetTop;
+            const aboutTop = aboutSection.offsetTop - 58;
+            const techStackTop = techStackSection.offsetTop - 58;
+            const experienceTop = experienceSection.offsetTop - 58;
+            const contactTop = contactSection.offsetTop - 58;
 
             const scrollPosition = window.scrollY;
 

@@ -2,7 +2,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const Heading = () => {
     const handleResumeClick = () => {
-        window.open("/imam-tashbir-resume-compressed.pdf", "_blank");
+        window.open("/imam-tashbir-resume.pdf", "_blank");
     };
 
     return (
